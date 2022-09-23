@@ -1,2 +1,0 @@
-#
-#https://tonypoer.io/2016/10/28/implementing-minimax-and-alpha-beta-pruning-using-python/#:~:text=After%20the%20Minimax%20object%20is%20instantiated%2C%20run%20the,your%20tree.%20For%20a%20small%20tree%2C%20that%E2%80%99s%20okay.
